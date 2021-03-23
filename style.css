@@ -10,7 +10,8 @@ img {
 }
   
 body {
-    background-color: #1b1b1b;
+    height: 100vh;
+    background-image: linear-gradient( 89.8deg,  rgba(222,74,74,1) 4.7%, rgba(30,29,29,1) 120.3% );
 }
   
 .header {
@@ -37,12 +38,11 @@ color: #f8b700;
 }
 
 .interface {
-padding: 0;
+padding: 20px;
 width: 100%;
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
-background-color: #1b1b1b;
 text-align: center;
 }
 
@@ -131,7 +131,6 @@ width: 100%;
 display: flex;
 flex-wrap: wrap;
 justify-content: center;
-background-color: #1b1b1b;
 text-align: center;
 }
 
